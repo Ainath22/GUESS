@@ -1,0 +1,7 @@
+body{
+   
+    background: linear-gradient(rgb(27, 240, 187) 0%, rgb(0, 204, 255) 100%);
+    display: table;
+    width: 100%;
+    height: 100%;
+}
